@@ -18,10 +18,10 @@ const Contact = () => {
         <button type="submit">Send</button>
       </form>
       <footer>
-        <a href="your_blog_link">Blog</a>
-        <a href="your_linkedin_link">LinkedIn</a>
-        <a href="your_github_link">GitHub</a>
-        <a href="your_twitter_link">Twitter</a>
+        <a href="https://medium.com/@bansaltanishqa">Blog</a>
+        <a href="https://www.linkedin.com/in/wiz-coder/">LinkedIn</a>
+        <a href="https://github.com/ich-tanishqa">GitHub</a>
+        <a href="https://x.com/TanishqaBansal">Twitter</a>
       </footer>
     </div>
   );
